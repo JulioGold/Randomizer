@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace Randomizer
 {
@@ -14,15 +13,6 @@ namespace Randomizer
             {
                 Console.Out.WriteLine(item);
             }
-        }
-    }
-
-    public static class IEnumerableExtensions
-    {
-        public static IEnumerable<T> Randomize<T>(this IEnumerable<T> alvo)
-        {
-            Random random = new Random();
-            return alvo.OrderBy(x => (random.Next()));
         }
     }
 }
