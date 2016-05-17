@@ -1,3 +1,5 @@
+Take objects and randomize them.
+
 Pega os elementos passados e "embaralha" todos.
 
 Passe os elementos separados por espaço.
