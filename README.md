@@ -1,6 +1,5 @@
 Take objects and randomize them.
 
-Pega os elementos passados e "embaralha" todos.
+Pass the elements separate by space.
 
-Passe os elementos separados por espaço.
-Por EX: Amora Banana Cereja
+EX.:: Blackberry, Banana, Cherry, Apple, Orange
